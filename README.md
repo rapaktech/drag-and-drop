@@ -1,4 +1,4 @@
-# A simple implemtation of drag-and-drop feature.
+# A simple implementation of the 'drag and drop' feature using JavaScript.
 
 * A random picture is fetched from a remote server, and then placed in a container.
 
